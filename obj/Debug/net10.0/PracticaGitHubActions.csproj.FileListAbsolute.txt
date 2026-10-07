@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Escritorio\PracticaGitHubActions\bin\Debug\net10.0\PracticaGitHubActions.exe
+C:\Users\USER\OneDrive\Escritorio\PracticaGitHubActions\bin\Debug\net10.0\PracticaGitHubActions.deps.json
+C:\Users\USER\OneDrive\Escritorio\PracticaGitHubActions\bin\Debug\net10.0\PracticaGitHubActions.runtimeconfig.json
+C:\Users\USER\OneDrive\Escritorio\PracticaGitHubActions\bin\Debug\net10.0\PracticaGitHubActions.dll
+C:\Users\USER\OneDrive\Escritorio\PracticaGitHubActions\bin\Debug\net10.0\PracticaGitHubActions.pdb
+C:\Users\USER\OneDrive\Escritorio\PracticaGitHubActions\obj\Debug\net10.0\PracticaGitHubActions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Escritorio\PracticaGitHubActions\obj\Debug\net10.0\PracticaGitHubActions.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Escritorio\PracticaGitHubActions\obj\Debug\net10.0\PracticaGitHubActions.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Escritorio\PracticaGitHubActions\obj\Debug\net10.0\PracticaGitHubActions.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Escritorio\PracticaGitHubActions\obj\Debug\net10.0\PracticaGitHubActions.dll
+C:\Users\USER\OneDrive\Escritorio\PracticaGitHubActions\obj\Debug\net10.0\refint\PracticaGitHubActions.dll
+C:\Users\USER\OneDrive\Escritorio\PracticaGitHubActions\obj\Debug\net10.0\PracticaGitHubActions.pdb
+C:\Users\USER\OneDrive\Escritorio\PracticaGitHubActions\obj\Debug\net10.0\PracticaGitHubActions.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Escritorio\PracticaGitHubActions\obj\Debug\net10.0\ref\PracticaGitHubActions.dll

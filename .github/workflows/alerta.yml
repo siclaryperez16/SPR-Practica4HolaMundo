@@ -1,0 +1,15 @@
+name: Alerta de cambios
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notificar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Enviar notificación a ntfy
+        run: |
+          curl -d "Se subió nuevo código al repositorio" ntfy.sh/devops-itla
