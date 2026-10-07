@@ -12,4 +12,9 @@ jobs:
     steps:
       - name: Enviar notificación a ntfy
         run: |
-          curl -d "Se subió nuevo código al repositorio" ntfy.sh/devops-itla
+          curl \
+            -H "Title: GitHub Actions - SPR-Practica4HolaMundo" \
+            -H "Priority: default" \
+            -H "Tags: github,rocket" \
+            -d "Se subió nuevo código al repositorio SPR-Practica4HolaMundo en la rama main." \
+            ntfy.sh/devops-itla
